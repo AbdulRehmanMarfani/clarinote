@@ -1,6 +1,6 @@
 
 
-# 📚 ClariMote
+# 📚 ClariNote
 
 **ClariNote** is an intelligent web app that helps students supercharge their study sessions using structured focus cycles, flashcards, and a smart AI assistant. It combines the **Pomodoro Technique**, spaced repetition, and AI-powered queries into a unified productivity workspace for learners.
 
