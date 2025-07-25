@@ -1,8 +1,8 @@
 
 
-# 📚 AI Study Bot
+# 📚 ClariMote
 
-**AI Study Bot** is an intelligent web app that helps students supercharge their study sessions using structured focus cycles, flashcards, and a smart AI assistant. It combines the **Pomodoro Technique**, spaced repetition, and AI-powered queries into a unified productivity workspace for learners.
+**ClariNote** is an intelligent web app that helps students supercharge their study sessions using structured focus cycles, flashcards, and a smart AI assistant. It combines the **Pomodoro Technique**, spaced repetition, and AI-powered queries into a unified productivity workspace for learners.
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 💡 Value Proposition
 
-AI Study Bot is designed to help students:
+ClariNote is designed to help students:
 
 * Stay laser-focused using structured Pomodoro sessions
 * Master concepts through spaced-repetition flashcards
@@ -50,7 +50,7 @@ AI Study Bot is designed to help students:
 * Track progress and build consistent study habits
 * Customize their experience for maximum comfort
 
-> ✨ AI Study Bot transforms your study time into an efficient, AI-enhanced experience.
+> ✨ ClariNote transforms your study time into an efficient, AI-enhanced experience.
 
 ---
 
@@ -85,7 +85,7 @@ AI Study Bot is designed to help students:
 
 ## 📦 Deployment
 
-AI Study Bot is live here:
+ClariNote is live here:
 👉 **[https://clarinote.vercel.app](https://clarinote.vercel.app)**
 
 ---
